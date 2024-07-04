@@ -16,7 +16,7 @@ In order to get this code to work, you must have the 5 main files:
 
 1. `Python-installer.bat`
 2. `keyboard-package-check.bat`
-3. `K-logger_Code.py`
+3. `K-logger_Code.pyw`
 4. `K-logger-internal-code.bat`
 5. `K-logger-start.bat`
 
